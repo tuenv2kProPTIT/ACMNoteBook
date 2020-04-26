@@ -29,7 +29,7 @@ ACMICPC
 
 # 1D-UPDATE
 
-18. [https://www.spoj.com/problems/TPGA/en/](https://www.spoj.com/problems/TPGA/en/)
+1. [https://www.spoj.com/problems/TPGA/en/](https://www.spoj.com/problems/TPGA/en/)
 
 19. [https://www.spoj.com/problems/SAS001/en/](https://www.spoj.com/problems/SAS001/en/)
 
