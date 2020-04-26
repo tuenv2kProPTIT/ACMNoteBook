@@ -18,7 +18,6 @@ ACMICPC
 4. [http://codeforces.com/problemset/problem/749/E](http://codeforces.com/problemset/problem/749/E)
 5. [https://vjudge.net/problem/CodeForces-831E](https://vjudge.net/problem/CodeForces-831E)
 6. [http://codeforces.com/problemset/problem/777/E](http://codeforces.com/problemset/problem/777/E)
-7. [http://codeforces.com/problemset/problem/831/E](http://codeforces.com/problemset/problem/831/E)
 9. [http://codeforces.com/problemset/problem/799/C](http://codeforces.com/problemset/problem/799/C)
 11. [https://www.spoj.com/problems/SGIFT/en/](https://www.spoj.com/problems/SGIFT/en/)
 12. [https://www.spoj.com/problems/MATSUM/en/](https://www.spoj.com/problems/MATSUM/en/)
