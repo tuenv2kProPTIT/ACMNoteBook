@@ -1,0 +1,11 @@
+## DSU
+# [https://vnoi.info/wiki/algo/data-structures/disjoint-set](https://vnoi.info/wiki/algo/data-structures/disjoint-set)
+1. [https://codeforces.com/problemset/problem/763/A](https://codeforces.com/problemset/problem/763/A)
+2. [https://codeforces.com/problemset/problem/659/E](https://codeforces.com/problemset/problem/659/E)
+3. [https://codeforces.com/problemset/problem/698/B](https://codeforces.com/problemset/problem/698/B)
+4. [https://codeforces.com/problemset/problem/1081/D](https://codeforces.com/problemset/problem/1081/D)
+5. [https://codeforces.com/problemset/problem/547/B](https://codeforces.com/problemset/problem/547/B)
+6. [https://codeforces.com/problemset/problem/1242/B](https://codeforces.com/problemset/problem/1242/B)
+7. [https://codeforces.com/group/FLVn1Sc504/contest/274813/problem/Z](https://codeforces.com/group/FLVn1Sc504/contest/274813/problem/Z)
+8. [https://codeforces.com/group/FLVn1Sc504/contest/274707/problem/S](https://codeforces.com/group/FLVn1Sc504/contest/274707/problem/S)
+9. [https://codeforces.com/group/FLVn1Sc504/contest/274809/problem/M](https://codeforces.com/group/FLVn1Sc504/contest/274809/problem/M)
